@@ -2,7 +2,7 @@
 
 # SnakeTeleop
 
-##### Teleoperating the ACM-R5 in CoppeliaSim using ROS2
+##### Teleoperating the ACM-R5 in CoppeliaSim using ROS2, developed by team 3
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![ROS2](https://img.shields.io/badge/ROS2_Humble-black?style=for-the-badge&logo=ROS)
